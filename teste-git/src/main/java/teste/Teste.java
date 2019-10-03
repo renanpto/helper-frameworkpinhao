@@ -12,5 +12,6 @@ public class Teste {
 
 	void novaFuncionalidade2Teste() {
 		
-	}
+	void novoMetodoBranchOS1020191(){}
+
 }
