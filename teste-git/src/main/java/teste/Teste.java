@@ -5,4 +5,8 @@ public class Teste {
 	void f () {
 
 	}
+
+	void novaFuncionalidadeTeste() {
+		
+	}
 }
