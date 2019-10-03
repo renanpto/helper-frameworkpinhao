@@ -6,6 +6,8 @@ public class Teste {
 
 	}
 
+	void novoMetodoBranchOS1020191(){}
+
 	void novaFuncionalidadeTeste() {
 		
 	}
