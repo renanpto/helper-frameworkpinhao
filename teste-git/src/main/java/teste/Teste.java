@@ -6,7 +6,11 @@ public class Teste {
 
 	}
 
-	void novaFuncionalidadeTeste() {
+	void novaFuncionalidade1Teste() {
+		
+	}
+
+	void novaFuncionalidade2Teste() {
 		
 	}
 }
