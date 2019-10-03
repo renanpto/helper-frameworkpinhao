@@ -6,11 +6,9 @@ public class Teste {
 
 	}
 
-	void novaFuncionalidade1Teste() {
-		
-	}
+	void novaFuncionalidade1Teste() {}
 
-	void novaFuncionalidade2Teste() {
+	void novaFuncionalidade2Teste() {}
 		
 	void novoMetodoBranchOS1020191(){}
 
