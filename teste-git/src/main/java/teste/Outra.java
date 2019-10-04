@@ -6,4 +6,6 @@ public class Outra {
 
 	}
 
+	void lixaoOutra() {}
+
 }
