@@ -14,9 +14,6 @@ public class Teste {
 
 	void novoAfterPomXml(){}
 
-
-	void novoMetodoBranchOS1020191Lixao(){}
-	
 	void novoMetodoBranchOS1020192(){}
 	
 	void novoMetodoBranchOS1020191Lixao(){}
