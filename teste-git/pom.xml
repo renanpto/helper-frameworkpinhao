@@ -5,4 +5,6 @@
   <version>1.0.0</version>
   <name>teste-git</name>
   <!-- adicionando comentario no pom.xml -->
+
+  <!-- algo no master que ira dar conflito -->
 </project>
