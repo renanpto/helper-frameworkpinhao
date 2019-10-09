@@ -6,4 +6,8 @@ public class Outra {
 
 	}
 
+	void lixaoOutra() {}
+
+	void teste9(){}
+
 }
